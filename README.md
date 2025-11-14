@@ -4,7 +4,7 @@
 
 *Built for Product Owners, Product Managers, and anyone managing product backlogs*
 
-[![Try Atlas](https://img.shields.io/badge/Try-Atlas_Now-6366f1?style=for-the-badge&logo=robot)](https://poe.com/Atlas.PM)
+[![Try Atlas](https://img.shields.io/badge/Try-Atlas-6366f1?style=for-the-badge&logo=robot)](https://poe.com/Atlas.PM)
 
 ---
 
