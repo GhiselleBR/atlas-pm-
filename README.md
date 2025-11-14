@@ -319,7 +319,7 @@ Clear-eyed about what this is (design project) vs what it isn't (technical innov
 Idea to functional demo in 1 week
 
 ✅ **Professional Documentation**  
-Case study, README, demo materials
+Case study, README
 
 ✅ **Honest Communication**  
 Transparent about limitations and tradeoffs
@@ -348,7 +348,7 @@ Transparent about limitations and tradeoffs
 
 ## 👤 About the Creator
 
-**Ghiselle Butrón** | Digital Product Manager
+**Ghiselle Butrón Reyes** | Digital Product Manager
 
 5+ years of experience in digital product management, specializing in **data-driven decision-making** and cross-functional team coordination. Track record of delivering measurable results for companies like CaixaBank, Škoda, and SEAT/CUPRA.
 
