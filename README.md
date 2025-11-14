@@ -3,7 +3,7 @@
 > Your guide through product prioritization
 
 [![Try Atlas](https://img.shields.io/badge/Try-Atlas_Now-6366f1?style=for-the-badge&logo=robot)](https://poe.com/Atlas.PM)
-[![Powered by Claude](https://img.shields.io/badge/Powered_by-Claude_3.5-8B5CF6?style=flat&logo=anthropic)](https://poe.com/Atlas.PM)
+
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ghiselle-butron-reyes)
 
 ---
