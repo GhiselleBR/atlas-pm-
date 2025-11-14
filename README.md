@@ -347,14 +347,13 @@ Transparent about limitations and tradeoffs
 
 **Ghiselle Butrón** | Digital Product Manager
 
-5+ years of experience in digital product management, specializing in data-driven decision-making and cross-functional team coordination. Track record of delivering measurable results for companies like CaixaBank, Škoda, and SEAT/CUPRA.
+5+ years of experience in digital product management, specializing in **data-driven decision-making** and cross-functional team coordination. Track record of delivering measurable results for companies like CaixaBank, Škoda, and SEAT/CUPRA.
 
 **Core Competencies:**
 - 📊 Data-driven product strategy
-- 🎯 Customer journey optimization
+- 🤖 AI integration in product
 - 🔄 Agile/Scrum methodologies  
 - 🤝 Stakeholder management
-- 🤖 AI integration in product
 
 **Professional Highlights:**
 - Increased lead generation by 12-30% through product optimization
@@ -366,14 +365,6 @@ Transparent about limitations and tradeoffs
 - 📧 Email: [ghiselle.b@gmail.com](mailto:ghiselle.b@gmail.com)
 - 💼 LinkedIn: [ghiselle-butron-reyes](https://linkedin.com/in/ghiselle-butron-reyes)
 - 💻 GitHub: [GhiselleBR](https://github.com/GhiselleBR)
-
----
-
-## 📄 Additional Resources
-
-- 📊 [Full Case Study Presentation](docs/Atlas-Case-Study.pdf) *(coming soon)*
-- 🎥 [3-Minute Demo Video](docs/demo-video.md) *(coming soon)*
-- 📝 [Prompt Engineering Guide](docs/prompt-guide.md) *(coming soon)*
 
 ---
 
