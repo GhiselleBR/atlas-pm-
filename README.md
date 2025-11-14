@@ -4,8 +4,6 @@
 
 [![Try Atlas](https://img.shields.io/badge/Try-Atlas_Now-6366f1?style=for-the-badge&logo=robot)](https://poe.com/Atlas.PM)
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ghiselle-butron-reyes)
-
 ---
 
 ## 🎯 Overview
