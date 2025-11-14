@@ -57,9 +57,9 @@ Get relevant KPI suggestions tailored to your feature type, with explanations of
 
 ---
 
-## 🤔 Why Not Just Use ChatGPT?
+## 🤔 Why Not Just Use a Regular AI Chat?
 
-**Great question.** For users skilled in prompt engineering, ChatGPT directly can achieve similar results. 
+**Great question.** For users skilled in prompt engineering, using Claude, ChatGPT, or any AI chat directly can achieve similar results. 
 
 Atlas isn't about revolutionary technology—it's about **product design and accessibility**.
 
@@ -69,35 +69,38 @@ Atlas isn't about revolutionary technology—it's about **product design and acc
 - No need to craft prompts from scratch each time
 - Pre-optimized prompts tested across 15+ real scenarios
 - Consistent structure and format
+- No "blank page syndrome"
 
 **2. Democratized Access**
-- 80% of Product Owners aren't prompt engineering experts
+- Not everyone managing product is a prompt engineering expert
 - Makes AI capabilities discoverable through clear options
-- Guides users through the process
+- Guides users through the process step-by-step
+- Works the same way every time, regardless of AI experience
 
 **3. Standardization**
 - Teams get consistent user story formats
 - RICE calculations follow the same methodology
-- Reduces variability in output quality
+- Reduces variability in output quality—critical when multiple PMs/POs are writing stories
+- Everyone uses the same framework
 
 **4. Focused Experience**
-- Purpose-built for PM tasks vs general-purpose chat
+- Purpose-built for product management tasks vs general-purpose chat
 - Relevant examples and guidance built-in
 - Less cognitive load to get started
+- No distractions from unrelated capabilities
 
-**Think of it as:** ChatGPT is the full kitchen with all ingredients. Atlas is an optimized recipe for specific dishes.
+**Think of it as:** 
 
-### Production Version Would Include
+General AI chats (Claude, ChatGPT, Gemini) are like having a full kitchen with every tool and ingredient imaginable. 
 
-In a real product deployment, Atlas would genuinely differentiate from general AI tools through:
-- 🔗 **Jira/Linear integration** - Import and sync real backlog
-- 💾 **Project memory** - Maintain context across sessions
-- 📊 **Team analytics** - Learn from prioritization patterns
-- 👥 **Collaboration** - Multi-user project planning
-- 🎨 **Custom templates** - Match your company's formats
-- 🔄 **Feedback loops** - Improve with usage
+Atlas is an optimized recipe card for specific dishes you cook regularly—you still use the same ingredients, but the instructions are pre-written, tested, and ready to follow.
 
-**This MVP validates the concept and demonstrates product thinking over technical complexity.**
+### What Makes Atlas Different from Opening Claude/ChatGPT?
+
+| Aspect | General AI Chat | Atlas |
+|--------|-----------------|-------|
+| **Getting Started** | Blank prompt - what do I ask? | 4 clear options to choose from |
+| **Prompt Quality** | Depends on your skill |
 
 ---
 
