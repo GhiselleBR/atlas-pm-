@@ -1,6 +1,8 @@
-# 🗺️ Atlas - AI Assistant for Product Owners
+# 🗺️ Atlas - AI Assistant for Product Professionals
 
-> Your guide through product prioritization
+> Your guide through product prioritization and backlog management
+
+*Built for Product Owners, Product Managers, and anyone managing product backlogs*
 
 [![Try Atlas](https://img.shields.io/badge/Try-Atlas_Now-6366f1?style=for-the-badge&logo=robot)](https://poe.com/Atlas.PM)
 
@@ -8,7 +10,7 @@
 
 ## 🎯 Overview
 
-Atlas is a conversational AI assistant designed to help Product Owners reduce time spent on repetitive operational tasks. Rather than replacing PM judgment, it automates the mechanical aspects of backlog management, allowing POs to focus on strategic decisions.
+Atlas is a conversational AI assistant designed to help **Product Owners and Product Managers** reduce time spent on repetitive operational tasks. Rather than replacing product judgment, it automates the mechanical aspects of backlog management, allowing product professionals to focus on strategic decisions.
 
 **Built by:** [Ghiselle Butrón](https://linkedin.com/in/ghiselle-butron-reyes)  
 **Timeline:** 1 week (November 2024)  
