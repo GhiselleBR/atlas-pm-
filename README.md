@@ -19,15 +19,6 @@ Atlas is a conversational AI assistant designed to help **Product Owners and Pro
 
 ---
 
-## 🎥 See It In Action
-
-<div align="center">
-  <img src="assets/atlas-demo.gif" alt="Atlas Demo" width="800"/>
-  <p><em>Demo: Generating user stories and RICE prioritization</em></p>
-</div>
-
----
-
 ## ✨ Features
 
 ### 1️⃣ User Story Generator
