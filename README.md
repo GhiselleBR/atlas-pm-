@@ -334,6 +334,7 @@ Transparent about limitations and tradeoffs
 
 ### Atlas Interface
 ![Atlas Welcome Message](assets/Atlas2.png)
+
 *Atlas greets you with clear options for the 4 main features*
 
 ---
