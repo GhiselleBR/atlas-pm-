@@ -344,28 +344,31 @@ Transparent about limitations and tradeoffs
 ---
 
 ### 1. User Story Generation
-assets/Atlas user story.png
 *Input: "Users need to save searches" 
-assets/Atlas4.png
-→ Output: Well-structured user story following best practices*
+![User Story Example](assets/Atlas user story.png)
+
+*→ Output: Well-structured user story following best practices*
+![User Story Example](assets/Atlas4.png)
 
 ---
 
 ### 2. RICE Prioritization
-![RICE Example](assets/rice-example.png)
 *Guided input collection → Calculated RICE scores → Ranked recommendations with explanations*
+![RICE Example](assets/Atlas5.png)
 
 ---
 
 ### 3. Acceptance Criteria
-![Criteria Example](assets/criteria-example.png)
 *User story input → Clear, testable acceptance criteria using Given-When-Then format*
+![Criteria Example](assets/Atlascriteria.png)
+
+![Criteria Example](assets/Atlascriteria2.png)
 
 ---
 
 ### 4. Success Metrics
-![Metrics Example](assets/metrics-example.png)
 *Feature description → Relevant KPIs with explanations of why each metric matters*
+![Metrics Example](assets/metrics-example.png)
 
 ---
 
