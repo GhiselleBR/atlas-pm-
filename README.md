@@ -333,9 +333,8 @@ Transparent about limitations and tradeoffs
 ## 📸 Screenshots
 
 ### Atlas Interface
-![Atlas Welcome Message](assets/Atlas2.png)
-
 *Atlas greets you with clear options for the 4 main features*
+![Atlas Welcome Message](assets/Atlas2.png)
 
 ---
 
@@ -399,7 +398,7 @@ The real innovation isn't in the code, but in recognizing that most POs don't ne
 
 <div align="center">
 
-**Built with ❤️ in Barcelona | November 2024**
+**Built with ❤️ in Barcelona | November 2025**
 
 [⬆ Back to top](#-atlas---ai-assistant-for-product-professionals)
 
