@@ -136,11 +136,12 @@ Atlas is an optimized recipe card for specific dishes you cook regularly—you s
    - Validated with 15+ real-world scenarios
    - Adjusted prompts based on failure modes
    - Optimized for clarity and consistency
-
+     
 6. **Documentation** (2 hours)
-   - Created case study and demo materials
-   - Documented learnings and next steps
-
+   - Wrote comprehensive README with project overview, learnings, and roadmap
+   - Captured screenshots demonstrating the 4 core features
+   - Documented development process and technical decisions
+     
 ### Tech Stack
 
 - **Platform:** Poe.com (no-code conversational AI builder)
