@@ -366,7 +366,7 @@ Transparent about limitations and tradeoffs
 
 **Ghiselle Butrón Reyes** | Product Manager
 
-5+ years of experience in digital product management, specializing in **data-driven decision-making** and cross-functional team coordination. Track record of delivering measurable results for companies like CaixaBank, Škoda, and SEAT/CUPRA.
+5+ years of experience in digital product management, specializing in data-driven decision-making and cross-functional team coordination. Track record of delivering measurable results for companies like CaixaBank, Škoda, and SEAT/CUPRA.
 
 **Core Competencies:**
 - 📊 Data-driven product strategy
