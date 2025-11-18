@@ -345,7 +345,7 @@ Transparent about limitations and tradeoffs
 
 ### 1. User Story Generation
 *Input: "Users need to save searches" 
-![User Story Example](assets/Atlas user story.png)
+![User Story Example](assets/Atlas_user_story.png)
 
 *→ Output: Well-structured user story following best practices*
 ![User Story Example](assets/Atlas4.png)
@@ -355,6 +355,10 @@ Transparent about limitations and tradeoffs
 ### 2. RICE Prioritization
 *Guided input collection → Calculated RICE scores → Ranked recommendations with explanations*
 ![RICE Example](assets/Atlas5.png)
+
+![RICE Example](assets/Atlas6.png)
+
+![RICE Example](assets/Atlas7.png)
 
 ---
 
