@@ -245,7 +245,7 @@ If this were to evolve into a production product, next iterations would include:
 
 ### Customization Layer
 - [ ] **Custom templates** - Match company story formats
-- [ ] **Configurable frameworks** - Beyond RICE (WSJF, Kano, etc.)
+- [ ] **Configurable frameworks** - Beyond RICE (Kano, etc.)
 - [ ] **Multi-language support** - Spanish, English, others
 
 ### Analytics Layer
@@ -270,13 +270,13 @@ If this were to evolve into a production product, next iterations would include:
 ### Production Approach
 
 For a real deployment, I would:
-1. Use OpenAI/Anthropic API directly (eliminates platform limits)
+1. Use Anthropic API directly (eliminates platform limits)
 2. Build database layer for project context and history
 3. Implement auth and team management
-4. Create integration layer for Jira, Linear, Slack
+4. Create integration layer for Jira, Slack
 5. Add feedback mechanisms to improve over time
 
-**This MVP proves the concept. Production would require ~2-3 months of development.**
+**This MVP proves the concept. Production would require months of development.**
 
 ---
 
@@ -348,21 +348,20 @@ Transparent about limitations and tradeoffs
 
 ## 👤 About the Creator
 
-**Ghiselle Butrón Reyes** | Digital Product Manager
+**Ghiselle Butrón Reyes** | Product Manager
 
 5+ years of experience in digital product management, specializing in **data-driven decision-making** and cross-functional team coordination. Track record of delivering measurable results for companies like CaixaBank, Škoda, and SEAT/CUPRA.
 
 **Core Competencies:**
 - 📊 Data-driven product strategy
 - 🤖 AI integration in product
-- 🔄 Agile/Scrum methodologies  
 - 🤝 Stakeholder management
+- 🔄 Agile/Scrum methodologies  
 
 **Professional Highlights:**
 - Increased lead generation by 12-30% through product optimization
 - Reduced reporting time by 40% via dashboard automation
-- Managed products for 4M+ users
-- Recent: GenAI for Product Owners certification (IBM-Coursera)
+- Recent: GenAI for Product Owners certification (IBM)
 
 **Let's Connect:**
 - 📧 Email: [ghiselle.b@gmail.com](mailto:ghiselle.b@gmail.com)
@@ -381,7 +380,7 @@ This project documentation is available under the MIT License.
 
 Atlas isn't revolutionary technology—it's a design exercise in making AI accessible and practical for everyday PM work. 
 
-The real innovation isn't in the code (there isn't any), but in recognizing that most POs don't need another powerful tool they don't know how to use. They need focused solutions that reduce friction and let them do their jobs better.
+The real innovation isn't in the code, but in recognizing that most POs don't need another powerful tool they don't know how to use. They need focused solutions that reduce friction and let them do their jobs better.
 
 **This project demonstrates product thinking: identifying real problems, designing simple solutions, shipping quickly, and choosing the right tools for the job.**
 
@@ -389,7 +388,7 @@ The real innovation isn't in the code (there isn't any), but in recognizing that
 
 <div align="center">
 
-**Built with ❤️ in Barcelona | November 2024**
+**Built with ❤️ in Barcelona | November 2025**
 
 [⬆ Back to top](#-atlas---ai-assistant-for-product-owners)
 
