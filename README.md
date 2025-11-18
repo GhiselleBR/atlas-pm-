@@ -53,6 +53,8 @@ Get relevant KPI suggestions tailored to your feature type, with explanations of
 
 *Requires free Poe account (2 min signup)*
 
+![Atlas Bot Profile](assets/bot-profile.png)
+
 </div>
 
 ---
@@ -100,7 +102,10 @@ Atlas is an optimized recipe card for specific dishes you cook regularly—you s
 | Aspect | General AI Chat | Atlas |
 |--------|-----------------|-------|
 | **Getting Started** | Blank prompt - what do I ask? | 4 clear options to choose from |
-| **Prompt Quality** | Depends on your skill |
+| **Prompt Quality** | Depends on your skill | Pre-optimized through 15+ tests |
+| **Consistency** | Varies by how you ask | Same structure every time |
+| **Learning Curve** | Need prompt engineering skills | Guided experience for everyone |
+| **Context** | General purpose assistant | Purpose-built for PM tasks |
 
 ---
 
@@ -244,14 +249,12 @@ If this were to evolve into a production product, next iterations would include:
 - [ ] **Commenting & feedback** - Iterate on generated content
 
 ### Customization Layer
-- [ ] **Custom templates** - Match company story formats
 - [ ] **Configurable frameworks** - Beyond RICE (Kano, etc.)
 - [ ] **Multi-language support** - Spanish, English, others
 
 ### Analytics Layer
 - [ ] **Usage patterns** - Understand bottlenecks
 - [ ] **Quality metrics** - Track output effectiveness
-- [ ] **Time savings** - Quantify impact
 
 ---
 
@@ -276,7 +279,7 @@ For a real deployment, I would:
 4. Create integration layer for Jira, Slack
 5. Add feedback mechanisms to improve over time
 
-**This MVP proves the concept. Production would require months of development.**
+**This MVP proves the concept. Production would require a couple months of development.**
 
 ---
 
@@ -319,7 +322,7 @@ Clear-eyed about what this is (design project) vs what it isn't (technical innov
 Idea to functional demo in 1 week
 
 ✅ **Professional Documentation**  
-Case study, README
+Case study, README, clear communication
 
 ✅ **Honest Communication**  
 Transparent about limitations and tradeoffs
@@ -328,21 +331,33 @@ Transparent about limitations and tradeoffs
 
 ## 📸 Screenshots
 
-### User Story Generation
-![User Story Example](assets/screenshot-user-story.png)
-*Input: vague feature description → Output: structured user story*
+### Atlas Interface
+![Atlas Welcome Message](assets/bot-welcome.png)
+*Atlas greets you with clear options for the 4 main features*
 
-### RICE Prioritization
-![RICE Example](assets/screenshot-rice.png)
-*Guided input collection → Calculated scores → Ranked recommendations*
+---
 
-### Acceptance Criteria
-![Criteria Example](assets/screenshot-criteria.png)
-*User story → Clear, testable acceptance criteria*
+### 1. User Story Generation
+![User Story Example](assets/user-story-example.png)
+*Input: "Users need to save searches" → Output: Well-structured user story following best practices*
 
-### Success Metrics
-![Metrics Example](assets/screenshot-metrics.png)
-*Feature type → Relevant KPIs with explanations*
+---
+
+### 2. RICE Prioritization
+![RICE Example](assets/rice-example.png)
+*Guided input collection → Calculated RICE scores → Ranked recommendations with explanations*
+
+---
+
+### 3. Acceptance Criteria
+![Criteria Example](assets/criteria-example.png)
+*User story input → Clear, testable acceptance criteria using Given-When-Then format*
+
+---
+
+### 4. Success Metrics
+![Metrics Example](assets/metrics-example.png)
+*Feature description → Relevant KPIs with explanations of why each metric matters*
 
 ---
 
@@ -370,12 +385,6 @@ Transparent about limitations and tradeoffs
 
 ---
 
-## 📜 License
-
-This project documentation is available under the MIT License.
-
----
-
 ## 💭 Final Thoughts
 
 Atlas isn't revolutionary technology—it's a design exercise in making AI accessible and practical for everyday PM work. 
@@ -388,8 +397,8 @@ The real innovation isn't in the code, but in recognizing that most POs don't ne
 
 <div align="center">
 
-**Built with ❤️ in Barcelona | November 2025**
+**Built with ❤️ in Barcelona | November 2024**
 
-[⬆ Back to top](#-atlas---ai-assistant-for-product-owners)
+[⬆ Back to top](#-atlas---ai-assistant-for-product-professionals)
 
 </div>
