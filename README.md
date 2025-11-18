@@ -6,7 +6,6 @@
 
 [![Try Atlas](https://img.shields.io/badge/Try-Atlas-6366f1?style=for-the-badge&logo=robot)](https://poe.com/Atlas.PM)
 
-![Atlas Bot Profile](assets/Atlas1.png) 
 ---
 
 ## 🎯 Overview
@@ -54,7 +53,7 @@ Get relevant KPI suggestions tailored to your feature type, with explanations of
 
 *Requires free Poe account (2 min signup)*
 
-![Atlas Bot Profile](assets/bot-profile.png)
+![Atlas Bot Profile](assets/Atlas1.png)
 
 </div>
 
