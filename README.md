@@ -144,7 +144,12 @@ Atlas is an optimized recipe card for specific dishes you cook regularly—you s
      
 ### Tech Stack
 
-- **Platform:** Poe.com (no-code conversational AI builder)
+- **Platform:** Poe.com (no-code conversational AI builder) was a strategic choice for this MVP phase, prioritizing speed and learning over infrastructure complexity.
+   - **Why on Poe:**
+     - Rapid prototyping: No-code platform enabled idea-to-prototype in days instead of weeks
+     - Focus on core value: Time spent on UX and prompt optimization, not API management or hosting setup
+     - Model flexibility:** Native support for testing multiple AI models (Claude, GPT-4) without separate API integrations
+     - Lean validation:** Perfect for testing the core hypothesis—"Is an AI assistant for PM tasks genuinely useful?"—before investing in custom de
 - **AI Model:** Claude-Sonnet-3.5 (Anthropic)
   - **Why Claude over GPT:**
     - Superior instruction-following for structured outputs
