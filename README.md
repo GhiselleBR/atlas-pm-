@@ -344,8 +344,10 @@ Transparent about limitations and tradeoffs
 ---
 
 ### 1. User Story Generation
-![User Story Example](assets/user-story-example.png)
-*Input: "Users need to save searches" → Output: Well-structured user story following best practices*
+assets/Atlas user story.png
+*Input: "Users need to save searches" 
+assets/Atlas4.png
+→ Output: Well-structured user story following best practices*
 
 ---
 
