@@ -1,4 +1,4 @@
-# <img src="assets/atlas_logo.png" width="40" height="40"> Atlas - AI Assistant for Product Professionals
+# <img src="assets/Atlas_Logo.png" width="40" height="40"> Atlas - AI Assistant for Product Professionals
 
 > Your guide through product prioritization and backlog management
 
