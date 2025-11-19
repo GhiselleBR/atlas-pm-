@@ -1,4 +1,4 @@
-![Atlas](assets/assets/Atlas_Logo.png) Atlas - AI Assistant for Product Professionals
+![Atlas](assets/Atlas_Logo.png) Atlas - AI Assistant for Product Professionals
 
 > Your guide through product prioritization and backlog management
 
