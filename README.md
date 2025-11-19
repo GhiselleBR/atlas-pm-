@@ -348,10 +348,10 @@ The following screenshots demonstrate Atlas's capabilities using a single, end-t
 ---
 
 ### 1. User Story Generation
-*Input: "Users need to save searches" 
+*Input: 
 ![User Story Example](assets/Atlas_user_story.png)
 
-*→ Output: Well-structured user story following best practices*
+*→ Output:
 ![User Story Example](assets/Atlas_user_story2.png)
 
 ---
