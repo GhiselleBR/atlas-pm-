@@ -267,7 +267,7 @@ If this were to evolve into a production product, next iterations would include:
 ## ⚠️ Current Limitations
 
 ### Platform Constraints
-- **Usage limits:** Poe free tier allows ~15-20 conversations per day
+- **Usage limits:** Poe free tier operates on a daily points system - users receive points that reset every 24 hours, allowing approximately 10-15 conversations per day depending on conversation length
 - **No persistence:** Does not remember past conversations or projects
 - **No integration:** Works standalone, doesn't sync with PM tools
 
@@ -413,7 +413,5 @@ The real innovation isn't in the code, but in recognizing that most POs don't ne
 <div align="center">
 
 **Built with ❤️ in Barcelona | November 2025**
-
-[⬆ Back to top](#-atlas---ai-assistant-for-product-professionals)
 
 </div>
