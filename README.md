@@ -343,7 +343,7 @@ The following screenshots demonstrate Atlas's capabilities using a single, end-t
 
 ### Atlas Interface
 *Atlas greets you with clear options for the 4 main features*
-![Atlas Welcome Message](assets/Atlas2.png)
+![Atlas Welcome Message](assets/Atlas_welcome.png)
 
 ---
 
@@ -352,68 +352,43 @@ The following screenshots demonstrate Atlas's capabilities using a single, end-t
 ![User Story Example](assets/Atlas_user_story.png)
 
 *→ Output: Well-structured user story following best practices*
-![User Story Example](assets/Atlas4.png)
+![User Story Example](assets/Atlas_user_story2.png)
 
 ---
 
 ### 2. RICE Prioritization
 *Guided input collection → Calculated RICE scores → Ranked recommendations with explanations*
-![RICE Example](assets/Atlas5.png)
+![RICE Example](assets/Atlas_RICE_prioritization.png)
 
-![RICE Example](assets/Atlas6.png)
+![RICE Example](assets/Atlas_RICE_prioritization2.png)
 
-![RICE Example](assets/Atlas7.png)
+![RICE Example](assets/Atlas_RICE_prioritization3.png)
+
+![RICE Example](assets/Atlas_RICE_prioritization4.png)
+
+![RICE Example](assets/Atlas_RICE_prioritization5.png)
 
 ---
 
 ### 3. Acceptance Criteria
 *User story input → Clear, testable acceptance criteria using Given-When-Then format*
-![Criteria Example](assets/Atlascriteria.png)
+![Criteria Example](assets/Atlas_acceptance_criteria.png)
 
-![Criteria Example](assets/Atlascriteria2.png)
+![Criteria Example](assets/Atlas_acceptance_criteria2.png)
+
+![Criteria Example](assets/Atlas_acceptance_criteria3.png)
 
 ---
 
 ### 4. Success Metrics
 *Feature description → Relevant KPIs with explanations of why each metric matters*
-![Metrics Example](assets/metrics-example.png)
+![Metrics Example](assets/Atlas_metrics.png)
 
----
-## 📸 Screenshots
+![Metrics Example](assets/Atlas_metrics2.png)
 
-### Example Case: E-commerce "Save for Later" Feature
+![Metrics Example](assets/Atlas_metrics3.png)
 
-The following screenshots demonstrate Atlas's capabilities using a single, end-to-end product scenario: designing a "Save for Later" feature for an e-commerce mobile app. This flow shows how Atlas supports the complete product development process from initial concept to success measurement.
-
----
-
-### Atlas Interface
-![Atlas Welcome Message](assets/Atlas2.png)
-*Atlas greets you with clear options for the 4 main features*
-
----
-
-### 1. User Story Generation
-![User Story Example](assets/user-story-example.png)
-*Input: Feature description → Output: Well-structured user story with clear persona, action, and value*
-
----
-
-### 2. RICE Prioritization
-![RICE Example](assets/rice-example.png)
-*Input: Multiple features → Output: Calculated RICE scores and prioritization recommendation*
-
----
-
-### 3. Acceptance Criteria
-![Criteria Example](assets/criteria-example.png)
-*Input: User story → Output: Clear, testable acceptance criteria*
-
----
-
-### 4. Success Metrics
-![Metrics Example](assets/metrics-example.png)
-*Input: Feature description → Output: Relevant KPIs with explanations*
+![Metrics Example](assets/Atlas_metrics4.png)
 
 ---
 
