@@ -6,6 +6,8 @@
 
 [![Try Atlas](https://img.shields.io/badge/Try-Atlas-6366f1?style=for-the-badge&logo=robot)](https://poe.com/Atlas.PM)
 
+assets/Atlas_Logo.png
+
 ---
 
 ## 🎯 Overview
