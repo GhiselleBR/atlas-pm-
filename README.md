@@ -97,12 +97,6 @@ Atlas isn't about revolutionary technology—it's about **product design and acc
 - Less cognitive load to get started
 - No distractions from unrelated capabilities
 
-**Think of it as:** 
-
-General AI chats (Claude, ChatGPT, Gemini) are like having a full kitchen with every tool and ingredient imaginable. 
-
-Atlas is an optimized recipe card for specific dishes you cook regularly—you still use the same ingredients, but the instructions are pre-written, tested, and ready to follow.
-
 ### What Makes Atlas Different from Opening Claude/ChatGPT?
 
 | Aspect | General AI Chat | Atlas |
