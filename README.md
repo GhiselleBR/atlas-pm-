@@ -337,6 +337,10 @@ Transparent about limitations and tradeoffs
 
 ## 📸 Screenshots
 
+### Example Case: E-commerce "Save for Later" Feature
+
+The following screenshots demonstrate Atlas's capabilities using a single, end-to-end product scenario: designing a "Save for Later" feature for an e-commerce mobile app. This flow shows how Atlas supports the complete product development process from initial concept to success measurement.
+
 ### Atlas Interface
 *Atlas greets you with clear options for the 4 main features*
 ![Atlas Welcome Message](assets/Atlas2.png)
@@ -373,6 +377,63 @@ Transparent about limitations and tradeoffs
 ### 4. Success Metrics
 *Feature description → Relevant KPIs with explanations of why each metric matters*
 ![Metrics Example](assets/metrics-example.png)
+
+---
+## 📸 Screenshots
+
+### Example Case: E-commerce "Save for Later" Feature
+
+The following screenshots demonstrate Atlas's capabilities using a single, end-to-end product scenario: designing a "Save for Later" feature for an e-commerce mobile app. This flow shows how Atlas supports the complete product development process from initial concept to success measurement.
+
+---
+
+### Atlas Interface
+![Atlas Welcome Message](assets/Atlas2.png)
+*Atlas greets you with clear options for the 4 main features*
+
+---
+
+### 1. User Story Generation
+![User Story Example](assets/user-story-example.png)
+*Input: Feature description → Output: Well-structured user story with clear persona, action, and value*
+
+---
+
+### 2. RICE Prioritization
+![RICE Example](assets/rice-example.png)
+*Input: Multiple features → Output: Calculated RICE scores and prioritization recommendation*
+
+---
+
+### 3. Acceptance Criteria
+![Criteria Example](assets/criteria-example.png)
+*Input: User story → Output: Clear, testable acceptance criteria*
+
+---
+
+### 4. Success Metrics
+![Metrics Example](assets/metrics-example.png)
+*Input: Feature description → Output: Relevant KPIs with explanations*
+
+---
+
+### ⚠️ Important Note on Data Privacy
+
+**Do not input confidential or proprietary company information into Atlas (or any public AI tool).**
+
+While Atlas is designed to help with product management tasks, it operates through Poe.com using third-party AI models (Claude). Any information you input:
+- May be used to train AI models
+- Is processed by external services
+- Should not include sensitive business data, unreleased product details, or confidential metrics
+
+**Best practices:**
+- ✅ Use hypothetical scenarios and generic examples
+- ✅ Anonymize any company-specific information
+- ✅ Work with placeholder data for testing
+- ❌ Never input actual company OKRs, roadmaps, or proprietary metrics
+- ❌ Avoid real customer data or competitive intelligence
+
+For production use with sensitive data, a custom implementation using direct API access with proper data governance would be required.
 
 ---
 
