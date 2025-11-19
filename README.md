@@ -1,4 +1,4 @@
-# <img src="assets/Atlas_Logo.png" width="40" height="40"> Atlas - AI Assistant for Product Professionals
+# <img src="assets/Atlas_Logo.png" width="120" height="120"> Atlas - AI Assistant for Product Professionals
 
 > Your guide through product prioritization and backlog management
 
@@ -13,7 +13,7 @@
 Atlas is a conversational AI assistant designed to help **Product Owners and Product Managers** reduce time spent on repetitive operational tasks. Rather than replacing product judgment, it automates the mechanical aspects of backlog management, allowing product professionals to focus on strategic decisions.
 
 **Built by:** [Ghiselle Butrón](https://linkedin.com/in/ghiselle-butron-reyes)  
-**Timeline:** 1 week (November 2024)  
+**Timeline:** 1 week (November 2025)  
 **Tech Stack:** Poe.com, Claude-Sonnet-3.5, Prompt Engineering  
 **Type:** MVP concept validation / Learning project
 
@@ -148,8 +148,8 @@ Atlas is an optimized recipe card for specific dishes you cook regularly—you s
    - **Why on Poe:**
      - Rapid prototyping: No-code platform enabled idea-to-prototype in days instead of weeks
      - Focus on core value: Time spent on UX and prompt optimization, not API management or hosting setup
-     - Model flexibility:** Native support for testing multiple AI models (Claude, GPT-4) without separate API integrations
-     - Lean validation:** Perfect for testing the core hypothesis—"Is an AI assistant for PM tasks genuinely useful?"—before investing in custom de
+     - Model flexibility: Native support for testing multiple AI models (Claude, GPT-4) without separate API integrations
+     - Lean validation: Perfect for testing the core hypothesis—"Is an AI assistant for PM tasks genuinely useful?"—before investing in custom development
 - **AI Model:** Claude-Sonnet-3.5 (Anthropic)
   - **Why Claude over GPT:**
     - Superior instruction-following for structured outputs
@@ -348,10 +348,15 @@ The following screenshots demonstrate Atlas's capabilities using a single, end-t
 ---
 
 ### 1. User Story Generation
-*Input: 
+
+**Input:**  
+*"Generate a user story for this e-commerce feature: Users need a way to save products..."*
+
 ![User Story Example](assets/Atlas_user_story.png)
 
-*→ Output:
+**Output:**  
+*Well-structured user story with clear persona, action, and value proposition*
+
 ![User Story Example](assets/Atlas_user_story2.png)
 
 ---
@@ -416,7 +421,7 @@ For production use with sensitive data, a custom implementation using direct API
 
 **Ghiselle Butrón Reyes** | Product Manager
 
-5+ years of experience in digital product management, specializing in data-driven decision-making and cross-functional team coordination. Track record of delivering measurable results for companies like CaixaBank, Škoda, and SEAT/CUPRA.
+5+ years of experience in digital product management and data analytics, specializing in data-driven decision-making and cross-functional team coordination. Track record of delivering measurable results for companies like CaixaBank, Škoda, and SEAT/CUPRA.
 
 **Core Competencies:**
 - 📊 Data-driven product strategy
