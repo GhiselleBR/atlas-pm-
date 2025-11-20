@@ -149,7 +149,7 @@ Atlas isn't about revolutionary technology—it's about **product design and acc
      - Rapid prototyping: No-code platform enabled idea-to-prototype in days instead of weeks
      - Focus on core value: Time spent on UX and prompt optimization, not API management or hosting setup
      - Model flexibility: Native support for testing multiple AI models (Claude, GPT-4) without separate API integrations
-     - Lean validation: Perfect for testing the core hypothesis—"Is an AI assistant for PM tasks genuinely useful?"—before investing in custom development
+     - Lean validation: Perfect for testing the core hypothesis,"Is an AI assistant for PM tasks genuinely useful?", before investing in custom development
 - **AI Model:** Claude-Sonnet-3.5 (Anthropic)
   - **Why Claude over GPT:**
     - Superior instruction-following for structured outputs
