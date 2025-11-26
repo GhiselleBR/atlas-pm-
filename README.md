@@ -1,11 +1,18 @@
 <div align="center">
-# <img src="assets/Atlas_Logo.png" width="250" height="250"> Atlas - AI Assistant for Product Professionals
 
-> Your guide through product prioritization and backlog management
+<img src="assets/Atlas_Logo.png" alt="Atlas Logo" width="250"/>
+
+# Atlas - AI Assistant for Product Professionals
+
+*Your guide through product prioritization and backlog management*
 
 *Built for Product Owners, Product Managers, and anyone managing product backlogs*
 
 [![Try Atlas](https://img.shields.io/badge/Try-Atlas-6366f1?style=for-the-badge&logo=robot)](https://poe.com/Atlas.PM)
+
+</div>
+
+---
 
 ---
 
