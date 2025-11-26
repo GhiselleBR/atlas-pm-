@@ -14,8 +14,6 @@
 
 ---
 
----
-
 ## 🎯 Overview
 
 Atlas is a conversational AI assistant designed to help **Product Owners and Product Managers** reduce time spent on repetitive operational tasks. Rather than replacing product judgment, it automates the mechanical aspects of backlog management, allowing product professionals to focus on strategic decisions.
