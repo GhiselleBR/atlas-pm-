@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Atlas_Logo.png" alt="Atlas Logo" width="250"/>
+<img src="assets/Atlas_Logo.png" alt="Atlas Logo" width="300"/>
 
 # Atlas - AI Assistant for Product Professionals
 
