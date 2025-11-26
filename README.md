@@ -15,7 +15,7 @@ Atlas is a conversational AI assistant designed to help **Product Owners and Pro
 **Works in English and Spanish** - automatically detects your language and responds accordingly.
 
 **Built by:** [Ghiselle Butrón](https://linkedin.com/in/ghiselle-butron-reyes)  
-**Timeline:** 1 week (November 2024)  
+**Timeline:** 1 week (November 2025)  
 **Tech Stack:** Poe.com, Claude-Sonnet-3.5, Prompt Engineering  
 **Type:** MVP concept validation / Learning project
 
